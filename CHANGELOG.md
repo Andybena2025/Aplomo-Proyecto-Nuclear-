@@ -2,6 +2,10 @@
 
 Todas las versiones del prototipo funcional (PMV) de APLOMO.
 
+## v16.1 · 2026-11-10
+- La app se ajusta sola a la pantalla en iPad y celular al abrirla, sin tener que hacer zoom.
+- Tocar un campo de texto en iPad o iPhone ya no acerca la pantalla.
+
 ## v16 · 2026-11-10
 - Los puntos del cuerpo se pueden arrastrar con el dedo en iPad y celular (área de agarre más grande, el punto más cercano se mueve y se resalta).
 - Primera versión publicada en GitHub. Copia congelada de esta estética en `versiones/`.
