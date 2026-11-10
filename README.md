@@ -7,7 +7,7 @@
 Evaluación ergonómica de puestos de trabajo con el método RULA:<br>
 fotos guiadas, puntos del cuerpo detectados con IA, ángulos, puntaje y resultados en un solo lugar.
 
-[**Abrir la app**](#cómo-abrirla) · [Funciones](#funciones) · [Cómo funciona](#cómo-funciona-el-método-rula) · [Historial](CHANGELOG.md)
+[**Abrir la app**](https://andybena2025.github.io/Aplomo-Proyecto-Nuclear-/) · [Funciones](#funciones) · [Cómo funciona](#cómo-funciona-el-método-rula) · [Historial](CHANGELOG.md)
 
 <img src="docs/capturas/1_login_laptop.png" alt="Portada de APLOMO" width="860">
 
@@ -56,7 +56,7 @@ Es un prototipo: funciona completo en el navegador, con datos de demostración y
 
 ## Cómo abrirla
 
-- **En línea:** el enlace de GitHub Pages que aparece en la parte derecha de este repositorio ("About").
+- **En línea:** https://andybena2025.github.io/Aplomo-Proyecto-Nuclear-/
 - **Sin instalar nada:** descarga `index.html` y ábrelo en Chrome, Safari o Edge. La detección con IA y el PDF necesitan internet.
 
 Para entrar, toca uno de los roles en "Entrar como (demo)". No hay contraseñas. "Reiniciar demo" vuelve a los datos iniciales.
