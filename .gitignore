@@ -1,0 +1,18 @@
+# Configuración local (contraseñas de MySQL)
+config/db.properties
+
+# Fotos subidas
+fotos/
+
+# Compilación
+target/
+out/
+*.class
+
+# IntelliJ
+.idea/
+*.iml
+
+# Sistema
+.DS_Store
+Thumbs.db
