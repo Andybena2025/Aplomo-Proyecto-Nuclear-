@@ -1,6 +1,6 @@
 <div align="center">
 
-# APLOMO.
+# ALINEO.
 
 **Ergonomía con precisión**
 
@@ -9,7 +9,7 @@ fotos guiadas, puntos del cuerpo detectados con IA, ángulos, puntaje y resultad
 
 [**Abrir la app**](https://andybena2025.github.io/Aplomo-Proyecto-Nuclear-/) · [Funciones](#funciones) · [Cómo funciona](#cómo-funciona-el-método-rula) · [Historial](CHANGELOG.md)
 
-<img src="docs/capturas/1_login_laptop.png" alt="Portada de APLOMO" width="860">
+<img src="docs/capturas/1_login_laptop.png" alt="Portada de ALINEO" width="860">
 
 </div>
 
@@ -17,7 +17,7 @@ fotos guiadas, puntos del cuerpo detectados con IA, ángulos, puntaje y resultad
 
 ## Qué es
 
-APLOMO es el **prototipo funcional (PMV)** de una aplicación para ingenieros industriales que evalúan la postura de los trabajadores en su puesto. El evaluador visita la empresa, toma las fotos, la app mide los ángulos del cuerpo y calcula el puntaje RULA con su semáforo de riesgo. La empresa ve los resultados y descarga la ficha en PDF.
+ALINEO es el **prototipo funcional (PMV)** de una aplicación para ingenieros industriales que evalúan la postura de los trabajadores en su puesto. El evaluador visita la empresa, toma las fotos, la app mide los ángulos del cuerpo y calcula el puntaje RULA con su semáforo de riesgo. La empresa ve los resultados y descarga la ficha en PDF.
 
 Es un prototipo: funciona completo en el navegador, con datos de demostración y sin servidor ni base de datos.
 

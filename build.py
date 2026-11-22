@@ -14,7 +14,7 @@ FOTOS = {
 }
 HEAD = ('<!doctype html><html lang="es"><head><meta charset="utf-8">'
         '<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">'
-        '<meta name="description" content="APLOMO. Evaluación ergonómica de puestos de trabajo con el método RULA: fotos, ángulos, puntaje y resultados.">'
+        '<meta name="description" content="ALINEO. Evaluación ergonómica de puestos de trabajo con el método RULA: fotos, ángulos, puntaje y resultados.">'
         '<meta name="theme-color" content="#0B0B0C"></head><body>')
 
 app = (RAIZ / 'src' / 'app.src.html').read_text(encoding='utf-8')
