@@ -1,6 +1,13 @@
 # Historial de versiones
 
-Todas las versiones del prototipo funcional (PMV) de APLOMO.
+Todas las versiones del prototipo funcional (PMV) de ALINEO (antes APLOMO).
+
+## v17 · 2026-11-22
+- Nuevo nombre: **ALINEO.** con el logo final de la app real (compás, ángulo de 90°, ejes y regla).
+- Login nuevo, igual al de la app real: foto con la medición fija, invitaciones "Solicitar acceso" y "Quiero ser evaluador", bloque "Quiénes somos" y pie © 2026 ALINEO™. Se conservan los botones "Entrar como (demo)".
+- Cabecera como la app real: fecha y saludo, "Hola, nombre", rol en champán, menú subrayado, Ayuda, avisos, iniciales y la A pequeña.
+- En pantallas anchas (desde 1600 px): ALINEO vertical a la izquierda y las herramientas de medición a la derecha.
+- Solo cambia el aspecto: roles, reglas RULA y flujos siguen como en v16.
 
 ## v16.1 · 2026-11-10
 - La app se ajusta sola a la pantalla en iPad y celular al abrirla, sin tener que hacer zoom.
