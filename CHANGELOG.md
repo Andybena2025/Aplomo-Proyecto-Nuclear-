@@ -2,6 +2,9 @@
 
 Todas las versiones del prototipo funcional (PMV) de ALINEO (antes APLOMO).
 
+## v17.1 · 2026-11-22
+- El logo del login cambia la onda dorada por destellos tipo joya: al terminar los puntos (7 s) brillan la punta de la A, la guía de la E, el arco de la O, el punto y la regla, y se repite muy suave cada 12 s con un leve resplandor champán.
+
 ## v17 · 2026-11-22
 - Nuevo nombre: **ALINEO.** con el logo final de la app real (compás, ángulo de 90°, ejes y regla).
 - Login nuevo, igual al de la app real: foto con la medición fija, invitaciones "Solicitar acceso" y "Quiero ser evaluador", bloque "Quiénes somos" y pie © 2026 ALINEO™. Se conservan los botones "Entrar como (demo)".
